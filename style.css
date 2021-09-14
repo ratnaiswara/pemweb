@@ -1,0 +1,15 @@
+.column {
+    float: right;
+    width: 24%;
+  }
+
+  body, html {
+    height: 100%;
+    background-color: #E4D8DC;
+}
+
+.bg {
+    background-image: url("c.png");
+    height: 40%;
+    background-repeat: no-repeat;
+  }
