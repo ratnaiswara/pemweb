@@ -3,7 +3,7 @@
 STEP BY STEP CARA NGECLONE
 
 Buka git bash
-Clone dengan ketik "git clone https://gitlab.com/ratnaiswara/final-project.git"
+Clone dengan ketik "git clone https://github.com/ratnaiswara/pemweb.git"
 Kerjakan bagian masing - masing
 Setelah selesai, ketik "git add . "
 Lalu ketik git commit -m "apa pesan commitnya"
