@@ -29,4 +29,4 @@ git branch -d nama_branch
 
 UNTUK PULL (mengambil update terbaru)
 
-"git pull https://gitlab.com/ratnaiswara/final-project.git"
+"git pull https://github.com/ratnaiswara/pemweb.git"
