@@ -9,7 +9,9 @@
 }
 
 .bg {
-    background-image: url("c.png");
+    background-image: url("original.png");
     height: 40%;
+    width: 100%;
     background-repeat: no-repeat;
+    background-size: 1550px 700px;
   }
