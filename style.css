@@ -5,11 +5,11 @@
 
   body, html {
     height: 100%;
-    background-color: #E4D8DC;
+    background-color: #CEE6B4;
 }
 
 .bg {
-    background-image: url("original.png");
+    background-image: url("bg.jpg");
     height: 40%;
     width: 100%;
     background-repeat: no-repeat;
